@@ -63,7 +63,7 @@ The app needs refactoring to function while hosted on the Internet. The version 
         
 2) Once cloned, open 2 Git Bash terminals, one each for the front end and back end.
 
-3) Make the current directory the src folder in both the front and back end directories.
+3) Make the current directory the /src folder in both the front and back end directories.
 
 4) Run the below command in the back end terminal:
         
